@@ -526,6 +526,7 @@ header i {
 }
 .meals:hover {
   padding-right: 75px;
+  box-shadow: 5px 5px 5px #000;
 }
 .meals:hover .cross {
   opacity: 1;
@@ -629,9 +630,9 @@ header i {
   }
 }
 .btn__order button:hover {
-  background-color: #ae80e5;
-  background-blend-mode: lighten;
-  box-shadow: 4px 4px 6px #000;
+background-color: #ae80e5;
+background-blend-mode: lighten;
+box-shadow: 11px 9px 11px #000;
 }
 
 .btn__order {
