@@ -8,14 +8,23 @@ Quatrième projet du parcours "Intégrateur-Web" d'OpenClassrooms.
 # Cahier des charges
 
 L'intégration doit se faire uniquement en HTML5 et CSS3 sans JavaScript.
+
 Le site doit être fait sans framework, mais l'utilisation de SASS est un plus.
+
 Le HTML et le CSS doivent être séparés et le fichier doit être organisé.
+
 L'approche utilisée doit être mibile-first, toutefois le site doit être responvise sur tablette et desktop.
+
 Le code doit être sémantiquement correct et ne doit contenir aucune erreur au validateur W3C.
+
 Le site doit être compatible avec les dernières versions de Chrome et Firefox.
+
 Le code doit être versionné avec Git et doit avoir un dépôt sur GitHub ou GitLab.
+
 Le site doit être déployé.
-Livrables attendus
+
+# Livrables attendus
+
 Contenu des pages
 
 # Page d'accueil (x1)
@@ -25,14 +34,17 @@ Une section contenant les 4 menus sous forme cartes ( au clic sur la carte, l’
 
 # Pages de menu (x4)
 4 pages contenant chacune le menu d’un restaurant.
+
 Header
 Le header est présent sur toutes les pages.
 Sur la page d’accueil, il contient le logo du site.
 Sur les pages de menu, il contient en plus un bouton de retour vers la page d’accueil.
+
 Footer
 Le footer est identique sur toutes les pages.
 Au clic sur “Contact”, un renvoi vers une adresse mail est effectué.
-Effets graphiques et animations
+
+# Effets graphiques et animations
 Les effets accessibles au clic ou au survol sont visibles sur la maquette. Ils doivent utiliser les animations ou transitions CSS, sans JavaScript ni de librairie.
 
 Au survol sur les boutons principaux, la couleur de fond doit légèrement s’éclaircir.
@@ -62,7 +74,9 @@ Les polices Roboto et Shrikhand.
 Les couleurs de la charte :
 
 Primaire : #9356DC
-<br>Secondaire : #FF79DA
+
+Secondaire : #FF79DA
+
 Tertiaire : #99E2D0
 
 # Note du projet
