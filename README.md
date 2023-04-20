@@ -48,17 +48,26 @@ Faire coulisser une coche de validation au survol pour que le visiteur ajoute le
 # Éléments fournis pour le projet
 
 Les maquettes à intégrer au format téléphone.
+
 Les vidéos d'illustration des animations.
+
 Les images présentes dans les maquettes.
+
 La liste des différents menus proposée par restaurants.
+
 Le brief du projet.
+
 Les polices Roboto et Shrikhand.
+
 Les couleurs de la charte :
+
 Primaire : #9356DC
-Secondaire : #FF79DA
+<br>Secondaire : #FF79DA
 Tertiaire : #99E2D0
 
 # Note du projet
 L'intégration de la maquette à été réalisée sur l'éditeur Visual Studio.
+
 La convention de nommage utilisée est BEM.
+
 Les iconographies utilisées viennent du site Font Awesome.
